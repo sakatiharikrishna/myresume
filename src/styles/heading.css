@@ -1,0 +1,57 @@
+.title{
+    text-align: center;
+    padding: 10px;
+}
+header{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    background-color: black;
+    color: white;
+}
+.address{
+    margin-left: 150px;
+}
+section{
+    height: 900px;
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+}
+ h5{
+    border-bottom: 2px solid black;
+    color: rgb(22, 144, 193);
+}
+ul li{
+    margin-bottom: 20px;
+}
+ol{
+    list-style: none;
+}
+ol li{
+    margin-bottom: 10px;
+}
+.last{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+.details{
+    margin-left: 200px;
+}
+
+.resume{
+    background-color:rgb(169, 166, 166);
+}
+.data{
+    background-color: rgb(206, 220, 228);
+}
+.skill{
+    background-color: white;
+}
+.skill-1{
+    background-color: white;
+}
+.skill-2{
+    background-color: white;
+}
+.skill-3{
+    background-color: white;
+}
